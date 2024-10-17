@@ -1,4 +1,4 @@
-# Türkiye İl ve İlçe Listesi
+# Plakaya Göre İl ve İlçe Listesi Türkiye
 
 Türkiye'deki tüm il ve ilçeleri listeleyen bir PHP Yapısı. İllere plaka numaraları üzerinden kolayca erişebilir ve o ildeki ilçeleri görüntüleyebilirsiniz.
 
